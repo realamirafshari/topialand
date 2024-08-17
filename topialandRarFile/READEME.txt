@@ -1,0 +1,3 @@
+RUN home.html
+
+In the "home" file, by clicking on the user icon, you will be redirected to the login page.
